@@ -27,7 +27,7 @@
 ║    Senior Data Engineer @ Omnicom Global Solutions                   ║
 ║    5+ years: Python · PySpark · Snowflake · AWS · Azure · GCP        ║
 ║    Also shipping AI-powered products as a solo developer             ║
-║    Cross-domain: data engineering × LLMs × product design           ║
+║    Cross-domain: data engineering × LLMs × product design            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -45,7 +45,7 @@ kingston = {
     "languages":     ["Python", "TypeScript", "SQL", "Bash"],
     "data_stack":    ["PySpark", "Snowflake", "dbt", "Apache Airflow", "Kafka"],
     "cloud":         ["AWS (CP + AI Practitioner)", "Azure (DP-203)", "GCP"],
-    "ai_ml":         ["Gemini 2.0", "Claude / Anthropic SDK", "LangChain", "OpenRouter"],
+    "ai_ml":         ["Gemini", "Claude / Anthropic SDK", "LangChain", "OpenRouter"],
     "web":           ["Next.js", "FastAPI", "Supabase", "Firebase", "React"],
     "infra":         ["Vercel", "Docker", "GitHub Actions", "Oracle Cloud"],
     "currently_exploring": ["LLM hybrid signal engines", "Kite Connect algo trading bot"],
@@ -69,8 +69,6 @@ kingston = {
 
 LLM-driven resume analysis, adaptive quizzes, personalized study plans. Built solo — live in production.
 
-**Stack:** Next.js · Supabase · Gemini 2.0 Flash Lite · Vercel
-
 `#SoloBuilt` `#LiveInProd` `#LLMPowered`
 
 </td>
@@ -80,8 +78,6 @@ LLM-driven resume analysis, adaptive quizzes, personalized study plans. Built so
 > **Smart Baby Tracker — India First**
 
 AI feed/sleep predictions, WHO growth percentiles, multi-caregiver sync, vaccine calendar.
-
-**Stack:** React Native · Firebase · FastAPI · Gemini
 
 `#HealthTech` `#IndiaFirst` `#AIFirst`
 

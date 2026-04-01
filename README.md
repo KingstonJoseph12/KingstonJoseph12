@@ -89,7 +89,7 @@ AI feed/sleep predictions, WHO growth percentiles, multi-caregiver sync, vaccine
 
 <div align="center">
 
-## 📊 GITHUB STATS
+## 👾 GITHUB STATS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingstonJoseph12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff9d&bg_color=0a0a0f&title_color=00ff9d&icon_color=00ff9d&text_color=c0c0c0"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingstonJoseph12&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff9d&bg_color=0a0a0f&title_color=00ff9d&text_color=c0c0c0"/>

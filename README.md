@@ -1,90 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,50:1a1a2e,100:0d0d12&height=160&section=header&text=Kingston%20Joseph&fontSize=48&fontColor=e8ff47&fontAlignY=55&desc=Senior%20Data%20Engineer%20%E2%80%A2%20AI%20%26%20Agent%20Builder%20%E2%80%A2%205%2B%20Years&descAlignY=78&descSize=14&animation=fadeIn&fontFamily=Courier%20Prime" />
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,50:1a1a2e,100:0d0d12&height=160&section=header&text=Kingston%20Joseph&fontSize=48&fontColor=e8ff47&fontAlignY=55&desc=Data-First%20AI%20Engineer%20%E2%80%A2%205%2B%20Years%20%E2%80%A2%20Chennai%2C%20India&descAlignY=78&descSize=14&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3000&pause=900&color=E8FF47&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Data+engineer+who+builds+AI.+That+order+matters.;5%2B+years+in+pipelines+before+touching+an+LLM.;PySpark+%C2%B7+Snowflake+%C2%B7+AWS+%C2%B7+Gemini+%C2%B7+Anthropic+SDK;Bridgezy+%E2%80%94+live+AI+platform%2C+solo+built+%26+shipped." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=E8FF47&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Data+engineer+who+builds+AI.+That+order+matters.;%241M%2B+savings+proven+at+North+America%27s+largest+insurer.;PySpark+%C2%B7+Snowflake+%C2%B7+AWS+%C2%B7+Gemini+%C2%B7+Anthropic+SDK;Shipped+products.+Not+just+side+projects." alt="Typing SVG" />
 </a>
-
-</div>
 
 <br/>
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kingston%20Joseph-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kingston-joseph)
 [![Bridgezy](https://img.shields.io/badge/Live%20Product-bridgezy.com-e8ff47?style=flat-square&logo=vercel&logoColor=black)](https://bridgezy.com)
-[![Email](https://img.shields.io/badge/Hire%20me-admin%40bridgezy.com-e8ff47?style=flat-square&logo=gmail&logoColor=black)](mailto:admin@bridgezy.com)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20%26%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Email](https://img.shields.io/badge/Hire%20me-admin%40bridgezy.com-e8ff47?style=flat-square&logo=gmail&logoColor=black)](mailto:kingstonjoseph1296@gmail.com)
+[![AWS CP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS AI](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Azure](https://img.shields.io/badge/Azure-DP--203-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)
 
 </div>
 
 ---
 
-## What I do
+```
+  I'm a data engineer who builds AI — and that order matters.
+  Most AI agents fail at the data layer. Mine don't.
+  5+ years in Data Engineering before ever touching an AI.
+  That foundation is the difference.
+```
 
-**I'm a data engineer who builds AI — and that order matters.**
+---
 
-Most AI engineers don't understand data. They build agents that hallucinate because the pipeline feeding them is broken, RAG systems that return garbage because the chunking strategy was an afterthought, dashboards that lie because no one modeled the schema properly. I've spent 5+ years at the data layer — PySpark, Snowflake, distributed pipelines, schema design under pressure — before ever touching an LLM.
+## Enterprise AI work
 
-That foundation is what makes my AI work actually reliable in production.
+**North America's largest Insurance Provider** — $1M+ in verified annual savings
+> Built AI agents that automated high-volume Job Failures and Infra support activites. Designed the data pipelines feeding the agents, not just the agents themselves. Delivered in production at enterprise scale.
 
-I'm currently Senior Data Engineer at Omnicom Global Solutions, and I build AI-powered products solo on the side. My background in product design (M.Des) means I don't just engineer the system — I shape the thing end to end.
-
-If you need an AI agent, a RAG pipeline, an LLM-powered app, or a data product with real intelligence layered on top — I've built it, shipped it, and maintained it.
+**US-based MedTech Startup** — AI integration across clinical workflows
+> Designed and deployed multiple AI agents and LLM-integrated applications across the product suite. End-to-end: architecture, data modeling, agent logic, deployment.
 
 ---
 
 ## Shipped products
 
-### [Bridgezy](https://bridgezy.com) — Live in production
-**AI-powered interview prep platform.** Upload a resume + job description, get instant gap analysis, a 50-question adaptive quiz, and a personalized study plan — all powered by Gemini 2.0.
-
-- **Stack:** Next.js 14 App Router · Firebase Auth · Supabase · Gemini 2.0 Flash Lite · Dodo Payments · Vercel
-- **Architecture I designed:** credit system, atomic RPC for deduction, multi-currency pricing via geo-detection, session continuity across auth states
-- **Built solo.** From schema to deployment.
-
-### Sprout *(in active design)*
-**AI-powered baby tracker — India-first.** LLM feed/sleep predictions, WHO growth percentiles, multi-caregiver sync, Ask-Sprout Q&A on the baby's own data, pediatric symptom journal.
-
-- Full feature scope defined across three modules: core tracking · LLM intelligence layer · smart device integrations
-- Target: Android + iOS · Dark mode · One-handed UI
+| | Project | What it is |
+|--|---------|------------|
+| 🔷 | **[Bridgezy](https://bridgezy.com)** — *live* | AI interview prep: resume analysis, adaptive quiz, study plan. Solo built. Next.js + Supabase + Google AI Studio |
+| 🌱 | **Sprout** — *in design* | AI baby tracker. LLM predictions, WHO growth charts, multi-caregiver sync. India-first. |
 
 ---
 
-## Skills & stack
+## Stack
 
-```python
-kingston = {
-    "ai_agents":     ["LLM orchestration", "RAG pipelines", "tool-use / function calling",
-                      "multi-agent patterns", "OpenRouter", "Anthropic SDK", "Gemini"],
-    "data_eng":      ["PySpark", "Snowflake", "dbt", "Apache Airflow", "Kafka", "SQL at scale"],
-    "cloud":         ["AWS (CP + AI Practitioner)", "Azure (DP-203)", "GCP", "Oracle Cloud"],
-    "web_backend":   ["Next.js 14", "FastAPI", "Supabase", "Firebase", "Vercel", "React"],
-    "languages":     ["Python", "TypeScript", "SQL", "Bash"],
-    "infra":         ["Docker", "GitHub Actions", "ngrok", "Playwright (automation)"],
-    "currently":     ["Kite Connect algo-trading bot", "LLM hybrid signal engines"],
-}
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
-## Certifications
-
-| Cert | Issuer | Focus |
-|------|--------|-------|
-| AWS Cloud Practitioner | Amazon Web Services | Cloud fundamentals |
-| AWS AI Practitioner | Amazon Web Services | AI/ML services on AWS |
-| Azure DP-203 | Microsoft | Data engineering on Azure |
-
----
-
-## GitHub activity
+## Activity
 
 <div align="center">
 
@@ -98,31 +88,25 @@ kingston = {
 
 ---
 
-## What I'm working on
+## Now
 
 ```
-Bridgezy v2    ████████░░  Post-launch feature iteration — analytics, UX, growth
+Bridgezy v2    ████████░░  Post-launch iteration
 Sprout         █████░░░░░  Core modules in design
-AI Agents      █████████░  Custom agent architecture + private LLM tooling
-Stock Algo     ███░░░░░░░  Kite Connect + LLM hybrid signal engine
-Omnicom        ████████░░  Senior Data Engineer (active full-time)
+AI Agents      █████████░  Custom tooling + private LLM work
+Stock Algo     ███░░░░░░░  Kite Connect + LLM signal engine
+Omnicom        ████████░░  Senior Data Engineer (full-time, active)
 ```
-
----
-
-## Want to build something?
-
-I'm available for **freelance AI/agent projects** — especially if you need someone who can handle the full stack: architecture, backend, LLM integration, and deployment.
-
-Best fit: startups and teams who want a smart system built fast, not a 6-month engagement.
-
-→ **[admin@bridgezy.com](mailto:admin@bridgezy.com)**
 
 ---
 
 <div align="center">
 
 *"The best data engineers don't just move data — they build things with it."*
+
+**[kingstonjoseph1296@gmail.com](mailto:kingstonjoseph1296@gmail.com)**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,100:1a1a2e&height=80&section=footer" />
 

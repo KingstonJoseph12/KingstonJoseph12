@@ -91,8 +91,7 @@ AI feed/sleep predictions, WHO growth percentiles, multi-caregiver sync, vaccine
 
 ## 👾 GITHUB STATS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingstonJoseph12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff9d&bg_color=0a0a0f&title_color=00ff9d&icon_color=00ff9d&text_color=c0c0c0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingstonJoseph12&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff9d&bg_color=0a0a0f&title_color=00ff9d&text_color=c0c0c0"/>
+
 
 <br/>
 
@@ -121,8 +120,10 @@ AI feed/sleep predictions, WHO growth percentiles, multi-caregiver sync, vaccine
 ```
 [■■■■■■■■□□] Bridgezy v2 — Post-launch feature iteration
 [■■■■■□□□□□] Sprout     — Core modules in design
+[■■■■■■■■■□] AI Agents  — Building Custom AI Agents and private/personal AI models
 [■■■■■■■□□□] Data Eng   — Omnicom Global Solutions (active)
-[■■■□□□□□□□] Algo Bot   — LLM + Kite Connect architecture
+[■■■□□□□□□□] Stock Algorithm AI   — Building architecture
+
 ```
 
 ---

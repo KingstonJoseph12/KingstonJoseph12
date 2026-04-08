@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kingston%20Joseph-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kingston-joseph)
 [![Bridgezy](https://img.shields.io/badge/Live%20Product-bridgezy.com-e8ff47?style=flat-square&logo=vercel&logoColor=black)](https://bridgezy.com)
-[![Email](https://img.shields.io/badge/Hire%20me-admin%40bridgezy.com-e8ff47?style=flat-square&logo=gmail&logoColor=black)](mailto:kingstonjoseph1296@gmail.com)
+[![Email](https://img.shields.io/badge/Hire%20me-kingstonjoseph1296%40gmail.com-e8ff47?style=flat-square&logo=gmail&logoColor=black)](mailto:kingstonjoseph1296@gmail.com)
 [![AWS CP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![AWS AI](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Azure](https://img.shields.io/badge/Azure-DP--203-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)
